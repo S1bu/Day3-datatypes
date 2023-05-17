@@ -23,10 +23,7 @@ let string = 'Sibusiso';
 let number = 123456789;
 //boolean
 let boolean = true; 
-//NULL
-let nullVariable = null;
-nullVariable = 'string';
-nullVariable = null;
+
 //undefined
 let undefinedVariable;
 // object
